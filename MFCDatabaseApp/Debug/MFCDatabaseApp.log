@@ -1,0 +1,18 @@
+﻿Build started 05-06-2017 15:57:48.
+     1>Project "D:\MFC-DB-Client-App\MFCDatabaseApp\MFCDatabaseApp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCDatabaseApp.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCDatabaseAppDlg.cpp
+         MFCDatabaseAppDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\MFCDatabaseApp.res" MFCDatabaseApp.rc 
+       Link:
+         D:\Microsoft Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MFC-DB-Client-App\Debug\MFCDatabaseApp.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\MFC-DB-Client-App\Debug\MFCDatabaseApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MFC-DB-Client-App\Debug\MFCDatabaseApp.lib" /MACHINE:X86 Debug\MFCDatabaseApp.res
+         Debug\MFCDatabaseApp.obj
+         Debug\MFCDatabaseAppDlg.obj
+         Debug\stdafx.obj
+         MFCDatabaseApp.vcxproj -> D:\MFC-DB-Client-App\Debug\MFCDatabaseApp.exe
+     1>Done Building Project "D:\MFC-DB-Client-App\MFCDatabaseApp\MFCDatabaseApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46
